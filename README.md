@@ -4,6 +4,11 @@
 <p> Se você não souber como jogar, não se preocupe, basta acessar este <a href="https://pt.wikihow.com/Jogar-Jogo-da-Velha" target_blank> link.</a></p>
 
 ## <a href="https://henrytos.github.io/Jogo-da-velha/" target_blank >JOGO DA VELHA 🔗</a>
+### para uma melhor experiencia:
+- prencher os campos de Player
+- chamar um amigo/colega
+
+
 ## Tecnologias utilizadas:
 
 <table>
